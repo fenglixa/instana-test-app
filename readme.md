@@ -1,4 +1,4 @@
-# For Instana APP Test
+# Used For Instana APP Test & Quick verify
 Install java in your env. (java version > 1.8.0_181)
 
 3 steps below to finish the java application install and verify:
